@@ -25,3 +25,6 @@ More info on this can be found on the Ionic [Getting Started](http://ionicframew
 Issues have been disabled on this repo, if you do find an issue or have a question consider posting it on the [Ionic Forum](http://forum.ionicframework.com/).  Or else if there is truly an error, follow our guidelines for [submitting an issue](http://ionicframework.com/submit-issue/) to the main Ionic repository.
 # building-an-Ionic2-app-sfdc-mobile-sdk
 <img src="http://f.st-hatena.com/images/fotolife/t/tyoshikawa1106/20160314/20160314141242.png" />
+
+## Link
+<a href="http://www.oyecode.com/2016/03/building-ionic2-app-with-salesforce.html">http://www.oyecode.com/2016/03/building-ionic2-app-with-salesforce.html</a>
